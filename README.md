@@ -87,8 +87,3 @@ Option B — Open the static frontend directly:
 - Project created for Microsoft Hackathon. Author: sahil
 
 ---
-
-If you want, I can also:
-
-- update `app.py` with example startup code, or
-- add a `.gitignore` and `LICENSE` file now.
