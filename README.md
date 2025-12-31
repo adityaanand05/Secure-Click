@@ -101,7 +101,7 @@ Option B — Open the static frontend directly:
 
 [GitHub Profile](https://github.com/manjulikagithub)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjulika-bachar-29920022a)
 
 ### Nitish Raj - Member(backend)
 
@@ -113,5 +113,6 @@ Option B — Open the static frontend directly:
 
 
 ---
+
 
 
