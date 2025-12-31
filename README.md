@@ -84,7 +84,7 @@ Option B — Open the static frontend directly:
 - Add a `LICENSE` file to clarify reuse. For hackathon submissions, an MIT or Apache-2.0 license is common.
 
 ## Contact
-### Krisita Chhetry - Lead(Frontend + AI)
+### Krisita Chhetry - Lead(Frontend + DataBase)
 
 [GitHub Profile](https://github.com/krisitachhetry25-hue)
 
@@ -113,6 +113,7 @@ Option B — Open the static frontend directly:
 
 
 ---
+
 
 
 
