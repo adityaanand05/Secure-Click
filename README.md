@@ -84,6 +84,33 @@ Option B — Open the static frontend directly:
 - Add a `LICENSE` file to clarify reuse. For hackathon submissions, an MIT or Apache-2.0 license is common.
 
 ## Contact
-- Project created for Microsoft Hackathon. Author: sahil
+### Krisita Chhetry
+
+[GitHub Profile](https://github.com/krisitachhetry25-hue)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krisita-chhetry-319028379)
+
+### Aditya Anand
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://adityaanandportfolio.web.app/)
+
+[GitHub Profile](https://github.com/adityaanand05)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityaanand05)
+
+### Manjulika
+
+[GitHub Profile](https://github.com/manjulikagithub)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
+
+### Nitish Raj
+
+[GitHub Profile]()
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
+
+
+
 
 ---
+
