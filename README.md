@@ -103,16 +103,17 @@ Option B — Open the static frontend directly:
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjulika-bachar-29920022a)
 
-### Nitish Raj - Member(backend)
+### Nitish Raj - Member(Backend)
 
-[GitHub Profile]()
+[GitHub Profile](https://github.com/nitishrajkashyap)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitishrajkashyap)
 
 
 
 
 ---
+
 
 
 
