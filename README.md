@@ -84,13 +84,13 @@ Option B — Open the static frontend directly:
 - Add a `LICENSE` file to clarify reuse. For hackathon submissions, an MIT or Apache-2.0 license is common.
 
 ## Contact
-### Krisita Chhetry - Lead(Frontend + DataBase)
+### Krisita Chhetry - Lead(AI)
 
 [GitHub Profile](https://github.com/krisitachhetry25-hue)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krisita-chhetry-319028379)
 
-### Aditya Anand - Member(AI + Backend)
+### Aditya Anand - Member(AI + Cyber Security)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://adityaanandportfolio.web.app/)
 
 [GitHub Profile](https://github.com/adityaanand05)
@@ -103,7 +103,7 @@ Option B — Open the static frontend directly:
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjulika-bachar-29920022a)
 
-### Nitish Raj - Member(Backend)
+### Nitish Raj - Member(Backend + AI Supporter)
 
 [GitHub Profile](https://github.com/nitishrajkashyap)
 
@@ -113,6 +113,7 @@ Option B — Open the static frontend directly:
 
 
 ---
+
 
 
 
