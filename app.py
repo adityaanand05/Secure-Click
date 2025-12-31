@@ -11,18 +11,17 @@ load_dotenv()
 api_key = os.getenv("GEMINI_API_KEY")
 
 
-# 1. Define the Output Format for the UI
+
 class PhishingReport(BaseModel):
     riskLevel: str
-    riskClass: str # 'high', 'medium', or 'low'
+    riskClass: str 
     riskScore: int
     isPhishing: bool
     factors: List[str]
     recommendations: List[str]
 
 app = Flask(__name__)
-CORS(app) # Allows your HTML file to talk to this API
-
+CORS(app) 
 
 
 @app.route('/api/analyze-email', methods=['POST'])
@@ -38,7 +37,7 @@ def analyze_email():
         api_key=os.getenv("GEMINI_API_KEY")
     )
 
-    # 2. Define Agents
+    
     analyst = Agent(
         role='Senior Cybersecurity Analyst',
         goal='Analyze email text for phishing indicators like urgency, suspicious links, and sender spoofing.',
@@ -57,7 +56,7 @@ def analyze_email():
         llm=llm
     )
 
-    # 3. Define Tasks
+    
     analysis_task = Task(
         description=f"Analyze this email for phishing threats: {email_text}",
         expected_output="A detailed list of suspicious elements and a risk assessment.",
@@ -72,7 +71,7 @@ def analyze_email():
         context=[analysis_task]
     )
 
-    # 4. Run the Crew
+  
     crew = Crew(
         agents=[analyst, reporter],
         tasks=[analysis_task, reporting_task],
@@ -81,8 +80,9 @@ def analyze_email():
 
     result = crew.kickoff()
     
-    # Return the structured JSON to the frontend
+    
     return jsonify(result.to_dict())
 
 if __name__ == '__main__':
+
     app.run(port=5000, debug=True)
